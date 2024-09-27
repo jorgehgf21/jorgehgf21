@@ -1,7 +1,8 @@
 ## Hi there 👋
+meu nome e jorge henrique
 
-<!--
-**jorgehgf21/jorgehgf21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I like football
-go to church
-play one with my friends
+
+- Estou estudando na alura;
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvios
+
