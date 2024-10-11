@@ -4,7 +4,7 @@ meu nome é jorge henrique
 
 - Estou estudando na alura;
 - Estou me desenvolvendo na linguagem javascript
-- Utilizo esse espaço para minha organização e compartilhamento do meus projetos desenvolvios
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvios
 
 ### você entrar em contato comigo 📫
 
