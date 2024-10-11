@@ -1,5 +1,5 @@
 ### boas vindas ao meu perfil 💙
-meu nome e jorge henrique
+meu nome é jorge henrique
 
 
 - Estou estudando na alura;
